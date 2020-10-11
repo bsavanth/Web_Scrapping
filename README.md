@@ -1,5 +1,7 @@
 # Web_Scrapping
-Scrapping html files for useful information using Ply
+First part of tf-idf based search engine
+
+Scrapping html files for relevant tokens using Ply
 
 Requirements:
 matplotlib
